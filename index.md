@@ -28,7 +28,7 @@
 
 本アプリのプライバシーに関するお問い合わせは、以下の連絡先までお願いいたします。
 
-メールアドレス：noogtn@gmail.com
+メールアドレス：support.noogtn@gmail.com
 開発者名：noogtn
 
 7. 児童・未成年について
